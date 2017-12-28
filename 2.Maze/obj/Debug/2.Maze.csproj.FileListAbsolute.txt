@@ -1,0 +1,1 @@
+C:\dev\TestTasks\2.Maze\bin\Debug\2.Maze.exe.config
