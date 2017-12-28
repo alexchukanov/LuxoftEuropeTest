@@ -1,1 +1,9 @@
 C:\dev\TestTasks\2.Maze\bin\Debug\2.Maze.exe.config
+C:\Projects\TestTasks\2.Maze\bin\Debug\input.txt
+C:\Projects\TestTasks\2.Maze\bin\Debug\2.Maze.exe.config
+C:\Projects\TestTasks\2.Maze\bin\Debug\2.Maze.exe
+C:\Projects\TestTasks\2.Maze\bin\Debug\2.Maze.pdb
+C:\Projects\TestTasks\2.Maze\obj\Debug\2.Maze.csprojResolveAssemblyReference.cache
+C:\Projects\TestTasks\2.Maze\obj\Debug\2.Maze.csproj.CoreCompileInputs.cache
+C:\Projects\TestTasks\2.Maze\obj\Debug\2.Maze.exe
+C:\Projects\TestTasks\2.Maze\obj\Debug\2.Maze.pdb

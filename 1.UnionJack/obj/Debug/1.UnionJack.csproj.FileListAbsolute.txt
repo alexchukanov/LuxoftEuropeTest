@@ -6,3 +6,11 @@ C:\Temp\TestTasks\1.UnionJack\obj\Debug\1.UnionJack.csprojResolveAssemblyReferen
 C:\Temp\TestTasks\1.UnionJack\obj\Debug\1.UnionJack.csproj.CoreCompileInputs.cache
 C:\Temp\TestTasks\1.UnionJack\obj\Debug\1.UnionJack.exe
 C:\Temp\TestTasks\1.UnionJack\obj\Debug\1.UnionJack.pdb
+C:\Projects\TestTasks\1.UnionJack\bin\Debug\input.txt
+C:\Projects\TestTasks\1.UnionJack\bin\Debug\1.UnionJack.exe.config
+C:\Projects\TestTasks\1.UnionJack\bin\Debug\1.UnionJack.exe
+C:\Projects\TestTasks\1.UnionJack\bin\Debug\1.UnionJack.pdb
+C:\Projects\TestTasks\1.UnionJack\obj\Debug\1.UnionJack.csprojResolveAssemblyReference.cache
+C:\Projects\TestTasks\1.UnionJack\obj\Debug\1.UnionJack.csproj.CoreCompileInputs.cache
+C:\Projects\TestTasks\1.UnionJack\obj\Debug\1.UnionJack.exe
+C:\Projects\TestTasks\1.UnionJack\obj\Debug\1.UnionJack.pdb
